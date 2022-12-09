@@ -1,2 +1,1 @@
-# eleventy-practice
-Trying out eleventy
+# Page header
